@@ -3,14 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "4f9b65b6a4aadf36a06a985664d29725",
+  "assets/AssetManifest.json": "21cf9cb311977e75fe8df786cdb03c29",
 "assets/assets/episodes/futurama.json": "f7badf7ba2709e531648b8e574557c6c",
+"assets/assets/episodes/letterkenny.json": "7733d2d27cec61cada82e4de2fd75ab0",
 "assets/assets/episodes/new_girl.json": "9aa99a395972ad7aba79c7b53bbc3dd1",
 "assets/assets/episodes/the_office.json": "ef45b5a227946d08d545b81e3a3c7101",
 "assets/assets/episodes/trailer_park_boys.json": "c05db2b59673ed983f1a0c757d6b7435",
 "assets/assets/icons/hulu.png": "3a79518c05e535e24da74c08377fbd71",
 "assets/assets/icons/netflix.png": "257b0d362d7574fb01cac5ce78bb6cf6",
 "assets/assets/title_logos/futurama.png": "b6a7e377b7cdeea362fac6fe0b7080c5",
+"assets/assets/title_logos/letterkenny.png": "7a727a503cac379da2dc44812f988b17",
 "assets/assets/title_logos/new_girl.png": "c9e2c9befe92e797cc059e38e9e62749",
 "assets/assets/title_logos/stream_roulette.png": "8c175aed2b65e1813790e3f0181ac631",
 "assets/assets/title_logos/the_office.png": "a086ab35c3bb2941e843247925470603",
@@ -22,9 +24,9 @@ const RESOURCES = {
 "favicon.png": "da74a790ced7149184fcb585834cdb33",
 "icons/Icon-192.png": "c3795a9531d76cb8a77a5115b131333d",
 "icons/Icon-512.png": "56a630386d26ccf7556ed2ac1360a1de",
-"index.html": "48b0ce4a3b1f916b011e74ec3faba9f7",
-"/": "48b0ce4a3b1f916b011e74ec3faba9f7",
-"main.dart.js": "afeb3c4c823f2c0355aa262b82fd52f3",
+"index.html": "40bb65cf5a2efa51b8b0ecb6a56e5f3d",
+"/": "40bb65cf5a2efa51b8b0ecb6a56e5f3d",
+"main.dart.js": "179724d4a1b4a8fd6eba9691bf7d79d7",
 "manifest.json": "5055301f675a3d8a8d2f84fb878a4238",
 "version.json": "67543d4f5c31be9b9d0b6f84036e8c2a"
 };
