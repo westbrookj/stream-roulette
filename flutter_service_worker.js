@@ -3,26 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "921a6061100ad782dba560e1aa8d54b8",
-"assets/assets/icons/hulu.png": "3a79518c05e535e24da74c08377fbd71",
-"assets/assets/icons/netflix.png": "257b0d362d7574fb01cac5ce78bb6cf6",
-"assets/assets/title_logos/criminal_minds.png": "d63cf585e793d39357309759f055ef33",
-"assets/assets/title_logos/futurama.png": "b6a7e377b7cdeea362fac6fe0b7080c5",
-"assets/assets/title_logos/letterkenny.png": "7a727a503cac379da2dc44812f988b17",
-"assets/assets/title_logos/new_girl.png": "c9e2c9befe92e797cc059e38e9e62749",
-"assets/assets/title_logos/stream_roulette.png": "8c175aed2b65e1813790e3f0181ac631",
-"assets/assets/title_logos/the_office.png": "a086ab35c3bb2941e843247925470603",
-"assets/assets/title_logos/trailer_park_boys.png": "e961b662d66922be20a6c24df040a6f5",
+  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "a9fcbb8370c49e01c69ff81ef9d051c1",
+"assets/NOTICES": "0961f6704dc718dd4bae7ef8176faaac",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "da74a790ced7149184fcb585834cdb33",
 "icons/Icon-192.png": "c3795a9531d76cb8a77a5115b131333d",
 "icons/Icon-512.png": "56a630386d26ccf7556ed2ac1360a1de",
-"index.html": "d20e039d7fe4fba923f2c9de085a8c8c",
-"/": "d20e039d7fe4fba923f2c9de085a8c8c",
-"main.dart.js": "de2f81ca78cb9d74a9e483ae449c9d14",
+"index.html": "294eefaacd11e21f706a725d90e078e9",
+"/": "294eefaacd11e21f706a725d90e078e9",
+"main.dart.js": "41c2fbd001dabdcfed95e3bceabb646d",
 "manifest.json": "5055301f675a3d8a8d2f84fb878a4238",
 "version.json": "06c928f7605cf1962d2fef84213938d7"
 };
