@@ -3,14 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "21cf9cb311977e75fe8df786cdb03c29",
-"assets/assets/episodes/futurama.json": "f7badf7ba2709e531648b8e574557c6c",
-"assets/assets/episodes/letterkenny.json": "7733d2d27cec61cada82e4de2fd75ab0",
-"assets/assets/episodes/new_girl.json": "9aa99a395972ad7aba79c7b53bbc3dd1",
-"assets/assets/episodes/the_office.json": "ef45b5a227946d08d545b81e3a3c7101",
-"assets/assets/episodes/trailer_park_boys.json": "c05db2b59673ed983f1a0c757d6b7435",
+  "assets/AssetManifest.json": "921a6061100ad782dba560e1aa8d54b8",
 "assets/assets/icons/hulu.png": "3a79518c05e535e24da74c08377fbd71",
 "assets/assets/icons/netflix.png": "257b0d362d7574fb01cac5ce78bb6cf6",
+"assets/assets/title_logos/criminal_minds.png": "d63cf585e793d39357309759f055ef33",
 "assets/assets/title_logos/futurama.png": "b6a7e377b7cdeea362fac6fe0b7080c5",
 "assets/assets/title_logos/letterkenny.png": "7a727a503cac379da2dc44812f988b17",
 "assets/assets/title_logos/new_girl.png": "c9e2c9befe92e797cc059e38e9e62749",
@@ -19,16 +15,16 @@ const RESOURCES = {
 "assets/assets/title_logos/trailer_park_boys.png": "e961b662d66922be20a6c24df040a6f5",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "db19e3e0e8429b9991455836a9a48b48",
+"assets/NOTICES": "a9fcbb8370c49e01c69ff81ef9d051c1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "da74a790ced7149184fcb585834cdb33",
 "icons/Icon-192.png": "c3795a9531d76cb8a77a5115b131333d",
 "icons/Icon-512.png": "56a630386d26ccf7556ed2ac1360a1de",
-"index.html": "40bb65cf5a2efa51b8b0ecb6a56e5f3d",
-"/": "40bb65cf5a2efa51b8b0ecb6a56e5f3d",
-"main.dart.js": "179724d4a1b4a8fd6eba9691bf7d79d7",
+"index.html": "d20e039d7fe4fba923f2c9de085a8c8c",
+"/": "d20e039d7fe4fba923f2c9de085a8c8c",
+"main.dart.js": "de2f81ca78cb9d74a9e483ae449c9d14",
 "manifest.json": "5055301f675a3d8a8d2f84fb878a4238",
-"version.json": "67543d4f5c31be9b9d0b6f84036e8c2a"
+"version.json": "06c928f7605cf1962d2fef84213938d7"
 };
 
 // The application shell files that are downloaded before a service worker can
